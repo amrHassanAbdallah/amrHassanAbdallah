@@ -34,5 +34,5 @@ Worked on different software architecture such as event-driven and microservices
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amrHassanAbdallah&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrHassanAbdallah&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrHassanAbdallah&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </p>
