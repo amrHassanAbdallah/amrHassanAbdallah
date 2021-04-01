@@ -13,7 +13,7 @@ Worked on different software architecture such as event-driven and microservices
 - 🚀 I’m currently improving my Data Structures and Algorithms knowledge on [leetcode](https://leetcode.com/3Mo0or);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: amr.hassan.abdullah@gmail.com;
-- 📝 [Resume](https://drive.google.com/file/d/1nz0GYbRmjB-Uyg2Mpfe4RbKAFKyRCJha/view?usp=sharing).
+- 📝 [Resume](https://drive.google.com/file/d/1nz0GYbRmjB-Uyg2Mpfe4RbKAFKyRCJha/view?usp=sharing);
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
