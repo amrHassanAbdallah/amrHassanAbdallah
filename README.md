@@ -8,7 +8,6 @@
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-Worked on different software architecture such as event-driven and microservices.
 
 - 🚀 I’m currently improving my Data Structures and Algorithms knowledge on [leetcode](https://leetcode.com/3Mo0or);
 - 💬 Ask me about anything, I am happy to help;
