@@ -9,10 +9,11 @@
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 
-- 🚀 I’m currently improving my Data Structures and Algorithms knowledge on [leetcode](https://leetcode.com/3Mo0or);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: amr.hassan.abdullah@gmail.com;
 - 📝 [Resume](https://drive.google.com/file/d/1nz0GYbRmjB-Uyg2Mpfe4RbKAFKyRCJha/view?usp=sharing);
+- 🚀 I’m currently improving my Data Structures and Algorithms knowledge on [leetcode](https://leetcode.com/3Mo0or);
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
