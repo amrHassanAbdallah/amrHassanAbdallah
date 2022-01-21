@@ -43,9 +43,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
   
 📈 **My GitHub Stats:**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrhassanabdallah&show_icons=true&locale=en&layout=compact" alt="amrhassanabdallah" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=amrhassanabdallah&" alt="amrhassanabdallah" /> </p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrhassanabdallah&show_icons=true&locale=en&layout=compact" alt="amrhassanabdallah" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=amrhassanabdallah&show_icons=true&locale=en" alt="amrhassanabdallah" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrhassanabdallah&show_icons=true&locale=en" alt="amrhassanabdallah" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrhassanabdallah&" alt="amrhassanabdallah" /></p>
 
