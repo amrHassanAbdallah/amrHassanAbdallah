@@ -32,12 +32,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
     <a href="https://hackernoon.com/u/amrhassan">
       <img src="https://img.shields.io/badge/-hackernoon-Lime?&style=for-the-badge&logo=hackernoon&logoColor=white">
     </a>
-   <a href="https://drive.google.com/file/d/1nz0GYbRmjB-Uyg2Mpfe4RbKAFKyRCJha/view?usp=sharing">
-      <img src="https://img.shields.io/badge/-resume-4682B4?&style=for-the-badge&logo=file&logoColor=white">
-    </a>
-     <a href="mailto:amr.hassan.abdullah@gmail.com">
-      <img src="https://img.shields.io/badge/-amr.hassan.abdullah@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
-    </a>
   </p>
   
   
