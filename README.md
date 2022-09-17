@@ -43,5 +43,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=amrhassanabdallah&" alt="amrhassanabdallah" /> 
 
 </p>
-
-
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
