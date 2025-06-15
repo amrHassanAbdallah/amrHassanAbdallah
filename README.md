@@ -10,7 +10,7 @@
 
 
 
-6+ years of experience in software engineering. I specialize in developing efficient, scalable and maintainable code. Check out my projects and contributions for a glimpse of my skills and experience.
+I build backend systems that make life easier—for users and engineers. Whether it’s architecture, developer workflows, or system resilience, I like solving problems that matter and leaving things better than I found them.
 
         
  
