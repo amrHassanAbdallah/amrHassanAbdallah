@@ -145,6 +145,15 @@ fun_fact:    I built a Chrome extension that reminds me to pray five times a day
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrhassanabdallah&hide=html,css&theme=react&border_color=61dafb&hide_border=true&bg_color=20232a&layout=compact&langs_count=8" alt="Top languages" />
 </p>
 
+<!-- Contribution snake (auto-generated daily by .github/workflows/snake.yml) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amrHassanAbdallah/amrHassanAbdallah/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amrHassanAbdallah/amrHassanAbdallah/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/amrHassanAbdallah/amrHassanAbdallah/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 <details align="center">
   <summary><sub>📈 Show contribution activity graph</sub></summary>
   <br/>
