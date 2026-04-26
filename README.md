@@ -27,15 +27,44 @@ I focus on architecture, developer workflows, and system resilience. I like solv
 
 ### Tech I work with
 
-**Languages** — Go, TypeScript, JavaScript, Node.js, PHP
-
-**Backend & APIs** — NestJS, Express, Laravel, REST, gRPC
-
-**Data & Messaging** — PostgreSQL, MongoDB, Redis, Kafka, RabbitMQ, Elasticsearch
-
-**Cloud & Infra** — AWS, GCP, Docker, Kubernetes, Terraform
-
-**Observability** — Grafana, Kibana, Jaeger, OpenTelemetry
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,php" alt="Go, TypeScript, JavaScript, Node.js, PHP" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend & APIs</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nestjs,express,laravel,graphql" alt="NestJS, Express, Laravel, GraphQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data & Messaging</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,rabbitmq,elasticsearch" alt="PostgreSQL, MongoDB, Redis, Kafka, RabbitMQ, Elasticsearch" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & Infra</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,linux,bash" alt="AWS, GCP, Docker, Kubernetes, Terraform, Linux, Bash" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Observability</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=grafana,kibana,prometheus" alt="Grafana, Kibana, Prometheus" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code, Postman" />
+    </td>
+  </tr>
+</table>
 
 ---
 
