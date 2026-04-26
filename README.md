@@ -1,3 +1,8 @@
+<!-- Old visitor counter -->
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=amrHassanAbdallah.amrHassanAbdallah" alt="visitors" />
+</p>
+
 <!-- Hero banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Amr%20Hassan&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Backend%20engineer%20from%20Cairo%20%E2%80%A2%20building%20systems%20that%20make%20life%20easier&descSize=16&descAlignY=58" alt="Amr Hassan banner" />
@@ -10,7 +15,7 @@
   </a>
 </p>
 
-<!-- Badges row -->
+<!-- Social badges -->
 <p align="center">
   <a href="https://amr-hassan.xyz"><img src="https://img.shields.io/badge/Website-amr--hassan.xyz-61dafb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/amr-hassan-abdullah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -20,9 +25,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrHassanAbdallah&label=Profile%20views&color=61dafb&style=for-the-badge" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/amrHassanAbdallah?label=Followers&style=for-the-badge&color=61dafb&logo=github&logoColor=white" alt="followers"/>
   <img src="https://img.shields.io/badge/Cairo%2C%20Egypt-%F0%9F%87%AA%F0%9F%87%AC-1f1f1f?style=for-the-badge" alt="Cairo, Egypt"/>
+  <img src="https://img.shields.io/github/followers/amrHassanAbdallah?label=Followers&style=for-the-badge&color=61dafb&logo=github&logoColor=white" alt="followers"/>
   <img src="https://img.shields.io/badge/Open%20to%20work-success?style=for-the-badge&color=00c853" alt="Open to work"/>
 </p>
 
@@ -30,24 +34,19 @@
 
 ## 👨‍💻 About me
 
-I'm a backend engineer who loves designing **reliable, observable, and maintainable** systems. I care about the small details that make engineering teams faster — clean architectures, sharp developer workflows, and systems that fail gracefully.
+Backend engineer who designs **reliable, observable, and maintainable** systems. I care about the small details that make engineering teams faster — clean architectures, sharp developer workflows, and software that fails gracefully.
 
 ```yaml
-name:      Amr Hassan
-role:      Backend Engineer
-location:  Cairo, Egypt
+role:      Backend Engineer · Cairo, Egypt
 focus:     [distributed systems, observability, developer experience]
-languages: [Go, TypeScript, Node.js, Python]
-currently: Building log-analysis tooling and AI-assisted dev workflows
+toolkit:   [Go, TypeScript, Node.js, Python]
+building:  Log-analysis tooling and AI-assisted dev workflows
 learning:  Event-driven architectures and platform engineering
-ask_me:    Anything backend — APIs, databases, infra, system design
+ask_me:    APIs, databases, infra, system design
 fun_fact:  I built a Chrome extension that reminds me to pray five times a day
 ```
 
-- 🔭 **Currently building** — log analysis tooling, developer-experience automation, and AI-assisted workflows
-- 🌱 **Learning deeper** — distributed systems, event-driven architectures, and platform engineering
-- 🛠️ **I enjoy** — refactoring legacy code, designing APIs people actually like using, and writing about what I learn
-- ✍️ **I write on** — [my blog](https://amr-hassan.xyz/) and [HackerNoon](https://hackernoon.com/u/amrhassan)
+📖 Latest writing on [my blog](https://amr-hassan.xyz/) and [HackerNoon](https://hackernoon.com/u/amrhassan)
 
 <br/>
 
@@ -108,30 +107,34 @@ fun_fact:  I built a Chrome extension that reminds me to pray five times a day
 
 ## 🚀 Featured projects
 
-<p align="center">
-  <a href="https://github.com/amrHassanAbdallah/log-insights-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrhassanabdallah&repo=log-insights-platform&theme=react&border_color=61dafb&hide_border=true&bg_color=20232a" alt="log-insights-platform" />
-  </a>
-  <a href="https://github.com/amrHassanAbdallah/notificationaway">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrhassanabdallah&repo=notificationaway&theme=react&border_color=61dafb&hide_border=true&bg_color=20232a" alt="notificationaway" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/amrHassanAbdallah/tahweelaway">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrhassanabdallah&repo=tahweelaway&theme=react&border_color=61dafb&hide_border=true&bg_color=20232a" alt="tahweelaway" />
-  </a>
-  <a href="https://github.com/amrHassanAbdallah/tracing-with-jeager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrhassanabdallah&repo=tracing-with-jeager&theme=react&border_color=61dafb&hide_border=true&bg_color=20232a" alt="tracing-with-jeager" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/amrHassanAbdallah/prayerReminderChromeExtension">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrhassanabdallah&repo=prayerReminderChromeExtension&theme=react&border_color=61dafb&hide_border=true&bg_color=20232a" alt="prayerReminderChromeExtension" />
-  </a>
-  <a href="https://github.com/amrHassanAbdallah/linkedin-responder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrhassanabdallah&repo=linkedin-responder&theme=react&border_color=61dafb&hide_border=true&bg_color=20232a" alt="linkedin-responder" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/amrHassanAbdallah/notificationaway">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrhassanabdallah&repo=notificationaway&theme=react&border_color=61dafb&hide_border=true&bg_color=20232a" alt="notificationaway" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/amrHassanAbdallah/log-insights-platform">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrhassanabdallah&repo=log-insights-platform&theme=react&border_color=61dafb&hide_border=true&bg_color=20232a" alt="log-insights-platform" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/amrHassanAbdallah/tahweelaway">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrhassanabdallah&repo=tahweelaway&theme=react&border_color=61dafb&hide_border=true&bg_color=20232a" alt="tahweelaway" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/amrHassanAbdallah/tracing-with-jeager">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrhassanabdallah&repo=tracing-with-jeager&theme=react&border_color=61dafb&hide_border=true&bg_color=20232a" alt="tracing-with-jeager" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>👉 More on my <a href="https://github.com/amrHassanAbdallah?tab=repositories">repositories page</a></sub></p>
 
 <br/>
 
@@ -139,20 +142,14 @@ fun_fact:  I built a Chrome extension that reminds me to pray five times a day
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=amrhassanabdallah&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=20232a&include_all_commits=true&count_private=true" alt="Amr's GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=amrhassanabdallah&theme=react&border=61dafb&hide_border=true&background=20232a" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrhassanabdallah&hide=html,css&theme=react&border_color=61dafb&hide_border=true&bg_color=20232a&layout=compact&langs_count=8" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrhassanabdallah&hide=html,css&theme=react&border_color=61dafb&hide_border=true&bg_color=20232a&layout=compact&langs_count=10" alt="Top languages" />
-</p>
-
-<br/>
-
-## 📈 Activity graph
-
-<p align="center">
+<details align="center">
+  <summary><sub>📈 Show contribution activity graph</sub></summary>
+  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrhassanabdallah&theme=react-dark&hide_border=true&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&area_color=61dafb" alt="Activity graph" />
-</p>
+</details>
 
 <br/>
 
