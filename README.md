@@ -27,7 +27,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Cairo%2C%20Egypt-%F0%9F%87%AA%F0%9F%87%AC-1f1f1f?style=for-the-badge" alt="Cairo, Egypt"/>
   <img src="https://img.shields.io/github/followers/amrHassanAbdallah?label=Followers&style=for-the-badge&color=61dafb&logo=github&logoColor=white" alt="followers"/>
-  <img src="https://img.shields.io/badge/Open%20to%20work-success?style=for-the-badge&color=00c853" alt="Open to work"/>
 </p>
 
 <br/>
@@ -37,16 +36,17 @@
 Backend engineer who designs **reliable, observable, and maintainable** systems. I care about the small details that make engineering teams faster — clean architectures, sharp developer workflows, and software that fails gracefully.
 
 ```yaml
-role:      Backend Engineer · Cairo, Egypt
-focus:     [distributed systems, observability, developer experience]
-toolkit:   [Go, TypeScript, Node.js, Python]
-building:  Log-analysis tooling and AI-assisted dev workflows
-learning:  Event-driven architectures and platform engineering
-ask_me:    APIs, databases, infra, system design
-fun_fact:  I built a Chrome extension that reminds me to pray five times a day
+role:        Backend Engineer · Cairo, Egypt
+experience:  8+ years building production backends
+focus:       [distributed systems, observability, developer experience]
+toolkit:     [Go, TypeScript, Node.js, Python]
+building:    Log-analysis tooling and AI-assisted dev workflows
+exploring:   AI agents, Claude Code plugins, dev-experience tooling
+ask_me:      APIs, databases, infra, system design
+fun_fact:    I built a Chrome extension that reminds me to pray five times a day
 ```
 
-📖 Latest writing on [my blog](https://amr-hassan.xyz/) and [HackerNoon](https://hackernoon.com/u/amrhassan)
+📖 I write on [my blog](https://amr-hassan.xyz/), [LinkedIn](https://www.linkedin.com/in/amr-hassan-abdullah), and [HackerNoon](https://hackernoon.com/u/amrhassan)
 
 <br/>
 
